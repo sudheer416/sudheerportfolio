@@ -29,7 +29,7 @@ const RightContent = () => {
         and mobile applications
       </div>
       <div className="skill-text">
-        ⚡ Progressive Web Applications ( PWA ) in normal and MERN Stacks
+        ⚡ Progressive Web Applications ( PWA ) in normal and MERN Stack
       </div>
       <div className="skill-text">⚡ Web Hosting</div>
     </div>
